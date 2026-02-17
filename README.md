@@ -1,4 +1,5 @@
 Better-Call-Advoca
+
 📌 Overview
 
 Better-Call-Advoca is an AI-based legal support system designed to assist users with basic legal information and guidance. The platform analyzes user queries, identifies legal topics, and provides simplified explanations, possible actions, and useful resources.
